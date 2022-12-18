@@ -100,15 +100,15 @@ class Main:
   \033[1;98m   ##     ##  ##  ##         ## ##     ##      
   \033[1;92m   ##     ##  ##  ##         ## ###### #########
   \033[1;99m
-  \033[1;91m        Hard Woark kye to sucees(KING-HIMEL32)
+  \033[1;91m           Hard Woark kye to sucees(KING-HIMEL32)
   \033[1;92m                      
                                      ## HIMEL-HACKER##
   
-  [∆]\033[1;96;1m Author   :KING-HIMEL32
+  [∆]\033[1;96;1m OWNER    :KING-HIMEL32
   [∆]\033[1;93;1m Facebook :mdnx.himel32
   [∆]\033[1;94;1m[Whatsapp : 01601161609
   [∆]\033[1;91;1m GitHub   : Kinghimel-32
-  [∆]\033[1;92;1m [Virson   : KH32.0.19    
+  [∆]\033[1;92;1m Virson   : KH32.0.19    
     """)
 		print("%s [%sâ€¢%s] %sTOOL NAME : %sOld Fb Cracker"%(G,R,G,B,G))
 		print("%s [%sâ€¢%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
